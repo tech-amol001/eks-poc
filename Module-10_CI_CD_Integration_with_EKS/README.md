@@ -54,7 +54,9 @@ https://github.com/kbindesh/eks-masterclass/blob/main/Module-02_Setting_up_EKS_C
 - **Provide user access to the AWS Management Console**: Unchecked
 - **Permission option**: Attach policies directly
 - **Permissions policies**: AdministratorAccess
+- go to this user --> go to security credentials --> go to HTTPS Git credentials for AWS CodeCommit --> generate credentials
 - Review the entered details and click **Create** button.
+- use this CodeCommit IAM user credentials to push the code from local machine to codecommit repo.
 
 ### Step-5.3: Develop the application and manifests
 
