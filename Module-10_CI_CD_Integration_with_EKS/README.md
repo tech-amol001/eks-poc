@@ -44,7 +44,7 @@ https://github.com/kbindesh/eks-masterclass/blob/main/Module-02_Setting_up_EKS_C
 - From the left-side panel, under **Source** section >> Select **Repositories**.
 - Click on **Create Repository** button.
 - **Repository name**: eks-devops-nginx
-- **Description**: This repos has bindesh's demo k8s app components.
+- **Description**: This repo has demo app code,Dockerfile and k8s manifests.
 - Leave rest of the setting to defaults >> **Create**.
 
 ### Step-5.2: Create an IAM user for CodeCommit Authentication
